@@ -1,0 +1,32 @@
+_repo: The-Historical-Romances-of-Georg-Ebers_5600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ebers, Georg
+    alias: Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_issued: '2004-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+- !lcsh 'Historical fiction'
+- GITenberg
+tableOfContents: Uarda -- An Egyptian princess -- The sisters -- Joshua -- Cleopatra
+  -- The Emperor -- Homo sum -- Serapis -- Arachne -- The bride of the Nile -- A thorny
+  path -- In the fire of the forge -- Margery -- Barbara Blomberg -- A word only a
+  word -- The burgomaster's wife -- In the Blue Pike -- A question -- The elixir --
+  The greylock -- The nuts -- The story of my life (autobiograpy).
+title: The Historical Romances of Georg Ebers
+url: http://www.gutenberg.org/ebooks/5600
